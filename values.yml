@@ -1,0 +1,6 @@
+name: "MITRE Cyber Academy"
+description: |
+  Joe produced a [screen cast](http://$static_file_server/fe-b09ebcf01ca6460da2cabac350d92fa4/video.flv) showing how to log into the MITRE Cyber Academy from a Windows machine. Unfortunately, before he was able to upload it to our server he dropped his computer and the hard drive died. Luckily we were able to recover most of the data but the video seems to be corrupted. We really don't want to redo this video so if it is recoverable that'd be great.
+  
+  MD5: 298ff68ca0cedfe86dbd52c6e0d0bf52
+flag: "MCA-067BBD6F"
